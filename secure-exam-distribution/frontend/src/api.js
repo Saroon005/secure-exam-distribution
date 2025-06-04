@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL for the Flask backend
-const BASE_URL = 'https://secure-exam-distribution.onrender.com';
+const BASE_URL = 'https://secure-exam-distribution.onrender.com/api';
 
 // Configure axios defaults
 axios.defaults.timeout = 30000; // 30 second timeout
