@@ -1,0 +1,23 @@
+# Flask and Web Framework
+Flask
+Flask-CORS
+
+# Cryptography
+cryptography
+
+# Utilities
+python-dotenv
+
+# Optional: For enhanced security and rate limiting
+Flask-Limiter
+Werkzeug
+
+# Optional: For better logging and monitoring
+flask-logging
+
+# Development and Testing (optional)
+pytest
+pytest-flask
+
+# File handling utilities
+pathlib2

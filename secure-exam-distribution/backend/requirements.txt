@@ -1,0 +1,31 @@
+# setuptools>=65.5.1
+# wheel>=0.38.4
+# cffi>=1.15.1
+# cryptography>=39.0.0
+# flask==2.0.1
+# werkzeug==2.0.3
+# flask-cors==3.0.10
+# python-dotenv==0.19.0
+# Flask and Web Framework
+Flask
+Flask-CORS
+
+# Cryptography
+cryptography
+
+# Utilities
+python-dotenv
+
+# Optional: For enhanced security and rate limiting
+Flask-Limiter
+Werkzeug
+
+# Optional: For better logging and monitoring
+flask-logging
+
+# Development and Testing (optional)
+pytest
+pytest-flask
+
+# File handling utilities
+pathlib2
